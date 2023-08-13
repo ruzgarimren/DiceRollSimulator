@@ -3,11 +3,12 @@ Roll a virtual dice with the Dice Roll Simulator. Experience realistic animation
 
 The Dice Roll Simulator is an interactive web application that lets users roll a virtual dice and keep track of their roll history. With smooth animations and a user-friendly interface, it offers an enjoyable and engaging experience.
 
-Features
+# Features
 Realistic Dice Rolling: Enjoy the excitement of rolling a dice with dynamic animations that replicate real-world rolling.
 Roll History: View your roll history, including the results of each roll and their corresponding dice faces.
 Colorful Design: The application boasts a pleasing color scheme and a clean layout for ease of use.
-How to Use
+
+# How to Use
 Open the Dice Roll Simulator in your web browser.
 Click the "Roll Dice" button to roll the dice.
 Witness the dice roll animation and observe the outcome displayed on the virtual dice.
